@@ -1,0 +1,31 @@
+#avisareditar{
+    text-align: center;
+    color: aliceblue;
+}
+#avisar{
+    text-align: center;
+    color: aliceblue;
+}
+body{
+    background-image: url(../Img/photo-1534796636912-3b95b3ab5986.jpg);
+}
+
+.botonagregar{
+    display: flex;
+    justify-content: center;
+}   
+#botonagregar{
+    margin-left: 35rem; 
+
+} 
+.tituloprodu{
+    text-align: center;
+    color: antiquewhite;
+}
+.cuerpo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    color: aliceblue;
+}
